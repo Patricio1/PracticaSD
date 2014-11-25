@@ -1,4 +1,0 @@
-PracticaSD
-==========
-
-SISTEMAS_DISTRIBUIDOS
