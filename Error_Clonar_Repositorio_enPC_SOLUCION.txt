@@ -1,0 +1,6 @@
+ Failed c onnect to github.com:443; No error
+ --SOLUCION AL ERROR github.com:443 (PARA CLONAR REPOSITORIO en nuestro equipo)
+ Error producido al querer clonar un repositorio en nuestro equipo desde github
+git config --global http.proxy http://nuestro-servidor-proxy:puerto
+Ejemplo: 
+git config --global http.proxy http://192.168.124.18:3128
